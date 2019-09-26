@@ -27,15 +27,15 @@ I used LeNet architecture:
 
 # Parameters
 I used the following parameters:
-* Epochs        : 100
-* Batch Size    : 2048
-* Learning rate : 0.0009
+> * Epochs        : 100
+> * Batch Size    : 2048
+> * Learning rate : 0.0009
 
 # Results
 The model results are as follows:
-Training set accuracy   : 0.96
-Validation set accuracy : 0.94
-Test set accuracy       : 0.93
+> * Training set accuracy   : 0.96
+> * Validation set accuracy : 0.94
+> * Test set accuracy       : 0.93
 
 # Conclusion
 Successfully trained model to classify traffic signs from a given image.
