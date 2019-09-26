@@ -95,7 +95,7 @@ X_train, y_train = shuffle(X_train, y_train)
 import tensorflow as tf
 
 #setting the hyperparameters, no of iterations and batch_size
-EPOCHS = 250
+EPOCHS = 100
 BATCH_SIZE = 2048
 
 
